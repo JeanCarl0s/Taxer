@@ -1,0 +1,13 @@
+.Main {
+ text-align:center;
+ font-family:Arial;
+}
+.Boxed {
+ background:rgb(236 248 247);
+ font-family:Verdana;
+ border: 2px solid rgb(236 248 247);
+ border-radius: 5px;
+}
+body {
+background:rgb(211, 240, 236);
+}
