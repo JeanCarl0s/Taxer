@@ -11,7 +11,7 @@
 }
 body {
 background-image:url("https://cdn.discordapp.com/attachments/841834447032680448/846531766973759518/5fc959b1-95d5-47ac-b6cd-bae312cb5321.png");
-backgorund-repeat:no-repeat
+backgorund-repeat:no-repeat;
 }
 .center {
   display: block;
