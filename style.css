@@ -3,9 +3,9 @@
  font-family:Arial;
 }
 .Boxed {
- background:rgba(255,255,255,0.5);
+ background:rgb(255, 255, 255);
  font-family:Verdana;
- border: 2px solid rgba(255,255,255,0.5);
+ border: 2px solid rgb(255, 255, 255);
  border-radius: 5px;
 }
 body {
