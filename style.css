@@ -9,5 +9,11 @@
  border-radius: 5px;
 }
 body {
-background:rgb(211, 240, 236);
+background-image:;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
