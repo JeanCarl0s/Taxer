@@ -3,10 +3,11 @@
  font-family:Arial;
 }
 .Boxed {
- background:rgb(1,1,1);
+ background:rgb(255,255,255);
  background-opacity: 0.5;
  font-family:Verdana;
- border: 2px solid rgb(236 248 247);
+ border: 2px solid rgb(255,255,255);
+ border-opacity: 0.5;
  border-radius: 5px;
 }
 body {
